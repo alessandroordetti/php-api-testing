@@ -28,3 +28,7 @@ header("Content-Type: application/json; charset=UTF-8");
 $controller = new TaskController();
 
 $controller->processRequest($method, $id);
+
+/* echo 'test'; */
+
+/* PROVA 2 */
